@@ -1,4 +1,4 @@
-# INFORMATION DATA CLASSIFICATION HANDLING GUIDELINES
+# Information Data Classification Handing Guidelines
  ## Sensitivity Labels
 Our data is valuable. To protect our data appropriately, a new way of protecting your documents is here, and it affects everyone who sends email or creates Microsoft Word, Excel, or PowerPoint files.
 
