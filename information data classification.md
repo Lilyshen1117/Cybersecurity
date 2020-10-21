@@ -1,3 +1,5 @@
+![sensitivity label](https://image.freepik.com/free-vector/personal-digital-security_74855-4560.jpg)
+
 # Information Data Classification Handing Guidelines
  ## Sensitivity Labels
 Our data is valuable. To protect our data appropriately, a new way of protecting your documents is here, and it affects everyone who sends email or creates Microsoft Word, Excel, or PowerPoint files.
