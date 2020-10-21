@@ -9,6 +9,7 @@ Labels include:
 | Confidential | for use only by specified groups of associates or authorized associates. | Information that is sensitive within the Company and is intended for use only by specified groups of associates or authorized personnel.|
 | Internal | Information that is generally available to Kohler associates. |Information that is generally available to Kohler Co. associates|
 | Public | Non-sensitive information for external release |Non-sensitive information available for external release|
+
 **Highly Protected**
 Highly sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
 **Examples**: PII (Personally Identifiable Information) such as racial or ethnic origin, trade union membership, health information, biometric data, health information ; Company financials; New product development; Business development such as mergers and acquisitions and strategic plans; future or active marketing plans
