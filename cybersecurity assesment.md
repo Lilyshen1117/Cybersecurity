@@ -36,7 +36,8 @@ Data and information systems are available when required. Hardware maintenance, 
 
 ## Risk Analysis Complete
 
-## FAQ
+## FAQs
+
 1. When does it need an assessment?
 
 2. How do I obtain this service?
