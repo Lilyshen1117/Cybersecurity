@@ -11,21 +11,25 @@ Labels include:
 | Public | Non-sensitive information for external release |Non-sensitive information available for external release|
 
 **Highly Protected**
+
 Highly sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
 
 **Examples**: PII (Personally Identifiable Information) such as racial or ethnic origin, trade union membership, health information, biometric data, health information ; Company financials; New product development; Business development such as mergers and acquisitions and strategic plans; future or active marketing plans
 
 **Confidential** 
+
 Sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
 
 **Examples**: Employee records; Individual work product; Contracts; Sales and Marketing plans; Purchase orders; Customer/Vendor lists, financial books, green books, Bank account numbers, system configuration data, data that is missing classification or unlabeled, IP addresses, operating procedures or manuals, payment instructions
 
 **Internal** 
+
 Information whose unauthorized disclosure, particularly outside the organization, would be inappropriate and inconvenient.Disclosure to anyone outside of the organization requires management authorization.
 
 **Examples**: Information shared at all employee meetings; myKohler; KohlerNow; Emails distributed to all employees; commonly shared internal information, operating procedures, policies, companywide announcements
 
 **Public** 
+
 Information that may be broadly distributed without causing damage to the organization, its employees and stakeholders.  The [PR Office/Marketing Dept/Information Security Management dept/etc.] must pre-approve the use of this classification.  These documents may be disclosed or passed to persons outside the organization.  
 
 **Examples**: Governmental filings; Press releases; Catalogs; Websites; Product tear sheets, Marketing materials created for public product releases
@@ -33,19 +37,24 @@ Information that may be broadly distributed without causing damage to the organi
 When you save these documents, choose a sensitivity label that alerts our network of the security level of the information on the document. The sensitivity label will automatically be noted on the bottom of each page.
 
 ### Effect of applying label
+
 - File is classified as Highly Protected
 - File is encrypted
 - User prompted to select authorised users and permissions; only these will have access
 - Footer added to file show label, and description
 
  **Confidential** 
+ 
 -	File is classified as Confidential
 -	Footer added to file show label, and description
 
  **Internal** 
+ 
 - File is classified as Internal
 - Footer added to file show label, and description
+
 **Public** 
+
 - File is classified as Public
 - Footer added to file show label, and description
 
@@ -53,6 +62,7 @@ When you save these documents, choose a sensitivity label that alerts our networ
 
 1. Why do we need sensitivity label on each document?
 The cybersecurity team have a duty to protect the digital assets of Kohler Co and affiliates.  We need to understand the value of each digital asset to apply the appropriate security.  When you classify the document or email, we can then apply the correct level of security to that asset.  
+
 2.	Why can’t we have a default label as most of my emails are internal
 The team thought long and hard on this one.  We felt that if all documents and email are given a default label, then the value of having labels is vastly reduced as most associates will leave the default and not change it.  we need associates to think about the value of each asset.  
 
@@ -71,6 +81,7 @@ Footers are a great way to show the value of a document.  We advise that existin
 
 8.	The footer is in English.  My documents are in a different language, why cant it be automatically translated?
 This is a limitation of the Microsoft product, while the label buttons and tooltips are translated, we cannot provide a translation for each language unless we create individual labels for each language.  We tired this in the pilot and concluded that it created too much of an admin overhead and makes further integrations for security controls far harder to implement.  We are confident that as English is the language of Business in Kohler Co, that the English footer is appropriate. 
+
 9.	How can I apply labels from Iphone or Android?
 In Iphone when you create a new email, press the 3 dots at the bottom of the edit screen in any office application and choose Add Sensitivity. 
 
