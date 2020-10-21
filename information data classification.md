@@ -12,25 +12,25 @@ Labels include:
 | Internal | Information that is generally available to Kohler associates. |Information that is generally available to Kohler Co. associates|
 | Public | Non-sensitive information for external release |Non-sensitive information available for external release|
 
-**Highly Protected**
+1. Highly Protected
 
 Highly sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
 
 **Examples**: PII (Personally Identifiable Information) such as racial or ethnic origin, trade union membership, health information, biometric data, health information ; Company financials; New product development; Business development such as mergers and acquisitions and strategic plans; future or active marketing plans
 
-**Confidential** 
+2. Confidential
 
 Sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
 
 **Examples**: Employee records; Individual work product; Contracts; Sales and Marketing plans; Purchase orders; Customer/Vendor lists, financial books, green books, Bank account numbers, system configuration data, data that is missing classification or unlabeled, IP addresses, operating procedures or manuals, payment instructions
 
-**Internal** 
+3. Internal
 
 Information whose unauthorized disclosure, particularly outside the organization, would be inappropriate and inconvenient.Disclosure to anyone outside of the organization requires management authorization.
 
 **Examples**: Information shared at all employee meetings; myKohler; KohlerNow; Emails distributed to all employees; commonly shared internal information, operating procedures, policies, companywide announcements
 
-**Public** 
+4. Public
 
 Information that may be broadly distributed without causing damage to the organization, its employees and stakeholders.  The [PR Office/Marketing Dept/Information Security Management dept/etc.] must pre-approve the use of this classification.  These documents may be disclosed or passed to persons outside the organization.  
 
@@ -39,6 +39,8 @@ Information that may be broadly distributed without causing damage to the organi
 When you save these documents, choose a sensitivity label that alerts our network of the security level of the information on the document. The sensitivity label will automatically be noted on the bottom of each page.
 
 ### Effect of applying label
+
+**Highly Protected**
 
 - File is classified as Highly Protected
 - File is encrypted
