@@ -1,5 +1,4 @@
-![cybersecurity](https://image.freepik.com/free-photo/security-concept-with-wooden-blocks-paper-lock-icon-blue-table-flat-lay-man-hand-pointing_176474-10447.jpg)
-![3 rules](http://5b0988e595225.cdn.sohucs.com/images/20190723/9bec97ba6075491c9fc180bb7356a8f3.jpeg)
+![cybersecurity](https://image.freepik.com/free-vector/shield-with-finger-print-scanning-digital-computer-data-technology-security-privacy-biometric-access_48369-25961.jpg)
 
 # Cybersecurity Assessment
 
@@ -8,6 +7,20 @@ Policies, Standards and Guidelines
 With the growing use of cloud solutions for keeping and maintaining Kohler data, and requiring new and ever increasing firewall configurations for transporting and accessing data by outside sources, we needed to create a formal review process. 
 
 All software purchases are being reviewed, whether new, renewals, additions, etc.   From a security standpoint, we are concerned with Confidentiality, Integrity and Availability of Kohler data.  We need enough information to evaluate these three points. 
+
+### CIA Triad of Information Security
+The CIA (Confidentiality, Integrity, and Availability) triad of information security is an information security benchmark model used to evaluate the information security of an organization. The CIA triad of information security implements security using three key areas related to information systems including confidentiality, integrity and availability.
+
+*Confidentiality* 
+Ensures that data or an information system is accessed by only an authorized person. User Id’s and passwords, access control lists (ACL) and policy based security are some of the methods through which confidentiality is achieved
+
+*Integrity*
+Integrity assures that the data or information system can be trusted. Ensures that it is edited by only authorized persons and remains in its original state when at rest. Data encryption and hashing algorithms are key processes in providing integrity
+
+*Availability*
+Data and information systems are available when required. Hardware maintenance, software patching/upgrading and network optimization ensures availability
+
+![3 rules](http://5b0988e595225.cdn.sohucs.com/images/20190723/9bec97ba6075491c9fc180bb7356a8f3.jpeg)
 
 ## Initial Review
 
