@@ -12,18 +12,22 @@ Labels include:
 
 **Highly Protected**
 Highly sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
+
 **Examples**: PII (Personally Identifiable Information) such as racial or ethnic origin, trade union membership, health information, biometric data, health information ; Company financials; New product development; Business development such as mergers and acquisitions and strategic plans; future or active marketing plans
 
 **Confidential** 
 Sensitive or valuable information, both proprietary and personal.  Must not be disclosed outside of the organization without the explicit permission of a Director-level senior manager.
+
 **Examples**: Employee records; Individual work product; Contracts; Sales and Marketing plans; Purchase orders; Customer/Vendor lists, financial books, green books, Bank account numbers, system configuration data, data that is missing classification or unlabeled, IP addresses, operating procedures or manuals, payment instructions
 
 **Internal** 
 Information whose unauthorized disclosure, particularly outside the organization, would be inappropriate and inconvenient.Disclosure to anyone outside of the organization requires management authorization.
+
 **Examples**: Information shared at all employee meetings; myKohler; KohlerNow; Emails distributed to all employees; commonly shared internal information, operating procedures, policies, companywide announcements
 
 **Public** 
 Information that may be broadly distributed without causing damage to the organization, its employees and stakeholders.  The [PR Office/Marketing Dept/Information Security Management dept/etc.] must pre-approve the use of this classification.  These documents may be disclosed or passed to persons outside the organization.  
+
 **Examples**: Governmental filings; Press releases; Catalogs; Websites; Product tear sheets, Marketing materials created for public product releases
 
 When you save these documents, choose a sensitivity label that alerts our network of the security level of the information on the document. The sensitivity label will automatically be noted on the bottom of each page.
