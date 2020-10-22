@@ -25,7 +25,7 @@ Integrity assures that the data or information system can be trusted. Ensures th
 
 Data and information systems are available when required. Hardware maintenance, software patching/upgrading and network optimization ensures availability
 
-![GDPR](https://tse2-mm.cn.bing.net/th/id/OIP.-rFIVFwZourmAmA8Ggg0fAHaE8?pid=Api&rs=1)
+![GDPR](https://static.vecteezy.com/system/resources/previews/000/539/961/original/gdpr-general-data-protection-regulation-vector.jpg)
 
 General Data Protection Regulation,GDPR
 
