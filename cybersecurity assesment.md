@@ -2,7 +2,7 @@
 
 # Cybersecurity Assessment
 
-Policies, Standards and Guidelines
+*Policies, Standards and Guidelines*
 
 With the growing use of cloud solutions for keeping and maintaining Kohler data, and requiring new and ever increasing firewall configurations for transporting and accessing data by outside sources, we needed to create a formal review process. 
 
@@ -11,34 +11,43 @@ All software purchases are being reviewed, whether new, renewals, additions, etc
 ### CIA Triad of Information Security
 The CIA (Confidentiality, Integrity, and Availability) triad of information security is an information security benchmark model used to evaluate the information security of an organization. The CIA triad of information security implements security using three key areas related to information systems including confidentiality, integrity and availability.
 
+![3 rules](http://5b0988e595225.cdn.sohucs.com/images/20190723/9bec97ba6075491c9fc180bb7356a8f3.jpeg)
+
 *Confidentiality* 
+
 Ensures that data or an information system is accessed by only an authorized person. User Id’s and passwords, access control lists (ACL) and policy based security are some of the methods through which confidentiality is achieved
 
 *Integrity*
+
 Integrity assures that the data or information system can be trusted. Ensures that it is edited by only authorized persons and remains in its original state when at rest. Data encryption and hashing algorithms are key processes in providing integrity
 
 *Availability*
+
 Data and information systems are available when required. Hardware maintenance, software patching/upgrading and network optimization ensures availability
 
-![3 rules](http://5b0988e595225.cdn.sohucs.com/images/20190723/9bec97ba6075491c9fc180bb7356a8f3.jpeg)
+![GDPR](https://tse2-mm.cn.bing.net/th/id/OIP.-rFIVFwZourmAmA8Ggg0fAHaE8?pid=Api&rs=1)
 
-## Initial Review
+General Data Protection Regulation,GDPR
+
+According to the best practices of the cybersecurity industry, as well as domestic and international cybersecurity related laws and regulations such as GDPR, our cybersecurity assessment mainly includes two parts- Security Risk Assessment and Data Privacy Assessment
+
+## Security Risk Assessment
+
+To describe the process for defining the required Supplier Quality and Buyer project support and risk mitigation levels for K&B Americas New Product Development and Current Product Support.
+
+Also, to ensure appropriate Supplier Quality and Buyer resource allocation to projects through objectively evaluating risks associated with purchasing products & services and develop action plans to alleviate that risk.
+
+## Data Privacy Assessment
+
+The instrument for a privacy impact assessment (PIA) or data protection impact assessment (DPIA) was introduced with the General Data Protection Regulation (Art. 35 of the GDPR). This refers to the obligation of the controller to conduct an impact assessment and to document it before starting the intended data processing.
 
 
-## Vendor（s）Survey
-
-
-## Determine Risk Level
-
-
-## Clarify With Requester
-
-
-## Risk Analysis Complete
 
 ## FAQs
 
 1. When does it need an assessment?
+
+When requiring new and ever increasing firewall configurations for transporting and accessing data by outside sources, we needed to create a formal review process. 
 
 2. How do I obtain this service?
   
