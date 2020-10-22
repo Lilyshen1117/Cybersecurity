@@ -11,7 +11,7 @@ All software purchases are being reviewed, whether new, renewals, additions, etc
 ### CIA Triad of Information Security
 The CIA (Confidentiality, Integrity, and Availability) triad of information security is an information security benchmark model used to evaluate the information security of an organization. The CIA triad of information security implements security using three key areas related to information systems including confidentiality, integrity and availability.
 
-![3 rules](http://5b0988e595225.cdn.sohucs.com/images/20190723/9bec97ba6075491c9fc180bb7356a8f3.jpeg)
+![3 rules](https://www.nissatech.com/wp-content/uploads/2017/05/Picture3.png)
 
 *Confidentiality* 
 
